@@ -43,7 +43,7 @@ Screenmatch allows users to search for any TV series by name. Once a series is f
 ```
 src/
 └── main/
-    └── java/br/com/alura/screenmatch/
+    └── java/br/com/screenmatch/
         ├── ScreenmatchApplication.java   # Spring Boot entry point; triggers Principal.exibeMenu()
         ├── model/
         │   ├── DadosSerie.java           # Record mapping series-level data from OMDb
